@@ -12,7 +12,7 @@ Welcome to my GitHub profile — where logic meets creativity.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VS000A&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VS000A&layout=compact)
 
 ## 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/varvarashepko)
